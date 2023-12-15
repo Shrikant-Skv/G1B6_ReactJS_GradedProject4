@@ -1,5 +1,7 @@
 # G1-B6_ReactJS_GradedAssignment4
 
+(not uploaded node-modules due to large file issue.)
+
 Working Video Of Movie Manager App- 
 https://drive.google.com/file/d/186KKFv4DkOUg4CG43DJLXtAWpfV-Biw_/view?usp=sharing
 
